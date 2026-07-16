@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Livro -->
+  <path d="M32 48h88c20 0 40 8 40 24v136c-10-12-24-16-40-16H32z" fill="#F6F2E9"></path>
+
+  <path d="M224 48h-88c-20 0-40 8-40 24v136c10-12 24-16 40-16h88z" fill="#F6F2E9"></path>
+
+  <!-- Centro -->
+  <rect x="124" y="48" width="8" height="160" fill="#D7D0C2"></rect>
+
+  <!-- Personagem estilizado -->
+  <rect x="162" y="70" width="36" height="68" rx="8" fill="#8B5A2B"></rect>
+
+  <!-- Veios da madeira -->
+  <path d="M171 78v52M181 75v58M191 80v46" stroke="#6E4420" stroke-width="2"></path>
+
+  <!-- Olhos -->
+  <circle cx="173" cy="96" r="4" fill="#fff"></circle>
+  <circle cx="187" cy="96" r="4" fill="#fff"></circle>
+  <circle cx="173" cy="96" r="2" fill="#000"></circle>
+  <circle cx="187" cy="96" r="2" fill="#000"></circle>
+
+  <!-- Boca -->
+  <path d="M172 114q8 8 16 0" stroke="#000" stroke-width="2" fill="none" stroke-linecap="round"></path>
+
+  <!-- Pernas -->
+  <path d="M172 138l-6 20M188 138l6 20" stroke="#222" stroke-width="4" stroke-linecap="round"></path>
+
+  <!-- Faíscas -->
+  <path d="M205 82l4-6M210 96h8M205 110l4 6" stroke="#000" stroke-width="2" stroke-linecap="round"></path>
+</svg>
